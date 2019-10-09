@@ -1,3 +1,7 @@
+target/
+dependency-reduced-pom
+
+
 # Compiled class file
 *.class
 
