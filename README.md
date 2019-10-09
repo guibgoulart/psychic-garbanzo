@@ -1,3 +1,3 @@
 # psychic-garbanzo
 Não.
-Sim.
+Tchau.
