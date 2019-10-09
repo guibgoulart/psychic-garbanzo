@@ -1,3 +1,3 @@
 # psychic-garbanzo
 Olá, mundinho...
-Por favor dê conflito.
+I'm sad!
