@@ -1,5 +1,6 @@
 target/
 dependency-reduced-pom
+.bash_history
 
 
 # Compiled class file
