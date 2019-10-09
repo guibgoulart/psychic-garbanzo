@@ -1,5 +1,2 @@
 # psychic-garbanzo
-
-NGFJDHLKDFJÇ
-AAAAAAAAAAAAA
-
+Realizando alguns testes e treinamento com git.
