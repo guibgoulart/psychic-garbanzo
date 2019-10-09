@@ -1,3 +1,3 @@
 # psychic-garbanzo
-Não.
-Tchau.
+Ok.
+Tá loco.
