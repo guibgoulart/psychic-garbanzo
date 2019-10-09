@@ -1,4 +1,3 @@
 # psychic-garbanzo
 Olá, mundinho...
-Mais uma vez!
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Por favor dê conflito.
