@@ -1,3 +1,3 @@
 # psychic-garbanzo
-Guri.
-Ta
+Não.
+Sim.
