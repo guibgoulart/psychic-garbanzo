@@ -1,4 +1,3 @@
 # psychic-garbanzo
 Guri.
-Vej
-
+Ta
